@@ -303,7 +303,7 @@
 {"key":"FindZY","name":"🐱找资源(搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"1f373a68733e4dafa5fa28dca9826b35","jar":"https://agit.ai/jm/me/raw/branch/master/ja/top95.jar;md5;b63e45664754f6ef2536428b857901c6"},
 {"key":"Gitcafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"1f373a68733e4dafa5fa28dca9826b35","jar":"https://agit.ai/jm/me/raw/branch/master/ja/top95.jar;md5;b63e45664754f6ef2536428b857901c6"},
 {"key": "push_agent","name":"🐱推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"1f373a68733e4dafa5fa28dca9826b35","jar":"https://agit.ai/jm/me/raw/branch/master/ja/top95.jar;md5;b63e45664754f6ef2536428b857901c6"},
-
+{"key":"csp_Yisou","name":"易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"5fceaa47e0164cab944160ffedd4d5c1","jar":"https://gitea.com/a2864027/a/raw/branch/main/1.jar"},
 
 
 
