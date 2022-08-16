@@ -72,7 +72,7 @@
 	"quickSearch": 1,
 	"searchable": 1,
 	"ext": "","jar":"https://agit.ai/jm/me/raw/branch/master/ja/index.jar;md5;f390d4835a1076e3651d08a2fd0e31ac"},
-{"key": "橘猫资源","name": "橘猫资源","type": 0,"api": "http://www.zitv.cc/api.php/provide/vod/at/xml"},
+
 
 
 {"key":"酷猫","name":"🦁酷猫影视(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/mgmf/mu/raw/master/酷猫.jar"},
