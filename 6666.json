@@ -250,7 +250,7 @@
       "ext": "https://agit.ai/jm/me/raw/branch/master/XB/yinfans.json"
     },
 {"key":"csp_biubiu_iibb电影网","name":"👹iibb电影网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/iidd电影网.json"},
-{"key":"csp_xpath_iidd","name":"iidd电影(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/iidd电影网.json"},
+
 {"key":"csp_xpath_hyingku","name":"🦋hyingku","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/hyingku.json"},
 {"key":"csp_xpath_nicotv","name":"🐓妮可动漫(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/nicotv.json"},
 {"key":"csp_biubiu_蓝光影院","name":"🌈蓝光影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/蓝光影院.json"},
