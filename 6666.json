@@ -182,6 +182,7 @@
 {"key":"KanSJ_spider","name":"🐸看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"https://agit.ai/jm/me/raw/branch/master/ja/qj0730.jar;md5;bbd17dc7b6650c2f3f10d5082ee6e539"},
 {"key":"3EDY","name":"🏹3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"https://agit.ai/jm/me/raw/branch/master/ja/qj0730.jar;md5;bbd17dc7b6650c2f3f10d5082ee6e539"},
 {"key": "Ikan", "name": "🎄爱看","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
+
 {
       "key":"csp_xpath_bttwoo",
       "name":"👬两个BT(XP)",
@@ -248,7 +249,7 @@
       "filterable": 1,
       "ext": "https://agit.ai/jm/me/raw/branch/master/XB/yinfans.json"
     },
-
+{"key":"csp_xpath_iidd","name":"iidd电影(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/iidd电影网.json"},
 {"key":"csp_xpath_hyingku","name":"🦋hyingku","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/hyingku.json"},
 {"key":"csp_xpath_nicotv","name":"🐓妮可动漫(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/nicotv.json"},
 {"key":"csp_biubiu_蓝光影院","name":"🌈蓝光影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/蓝光影院.json"},
