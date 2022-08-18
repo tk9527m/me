@@ -9,7 +9,7 @@
 
 {"key":"csp_Yisou","name":"🤡易搜","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3","jar":"https://agit.ai/jm/me/raw/branch/master/ja/999.jar;md5;b4aa0673a4f7fa631769f137ee7e6c26"},    
 {"key":"csp_xpath_cilisou","name":"🤑磁力搜(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/磁力搜.json"},{"key":"csp_SP360","name":"😜360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/0712.jar"},
-{"key":"AliPS","name":"🐱盘搜(搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"5fceaa47e0164cab944160ffedd4d5c1","jar":"https://agit.ai/jm/me/raw/branch/master/ja/999.jar;md5;b4aa0673a4f7fa631769f137ee7e6c26"}, 
+{"key":"AliPS","name":"🐱盘搜(搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"5fceaa47e0164cab944160ffedd4d5c1","jar":"https://agit.ai/jm/me/raw/branch/master/ja/999.jar;md5;b4aa0673a4f7fa631769f137ee7e6c26"}, 
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小小影视","name":"❎小小影视(SP)","api":"csp_Xxys","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/ayt.jar;md5;cac73c3129ff2dc79f73ec4d6d0563a6"},
 {"key":"csp_3EDY","name":"🔥3E飘花(SP)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/mwqgxx/gmx/raw/branch/main/sub/ext/sp081.txt;md5;4bb140374f74fc87b306f1e5a6d8bbea"},
