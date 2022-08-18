@@ -168,7 +168,7 @@
 {"key":"KanSJ_spider","name":"🐸看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"https://agit.ai/jm/me/raw/branch/master/ja/qj0730.jar;md5;bbd17dc7b6650c2f3f10d5082ee6e539"},
 {"key":"3EDY","name":"🏹3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"https://agit.ai/jm/me/raw/branch/master/ja/qj0730.jar;md5;bbd17dc7b6650c2f3f10d5082ee6e539"},
 {"key": "Ikan", "name": "🎄爱看","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
-
+{"key":"200121","name":"🐝200121","type":1,"api":"https://www.200121.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {
       "key":"csp_xpath_bttwoo",
       "name":"👬两个BT(XP)",
