@@ -6,7 +6,7 @@
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
   "sites":[
-
+{"key": "csp_Yiso","name":"🐞易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"5fceaa47e0164cab944160ffedd4d5c1","jar":"https://agit.ai/jm/me/raw/branch/master/ja/合集原画新XB.jar;md5;acc9342e0488b454637854295249dfb1"},    
 //{"key":"csp_Yiso","name":"🤡易搜原画4K(搜索)","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"5fceaa47e0164cab944160ffedd4d5c1","jar":"https://agit.ai/jm/me/raw/branch/master/ja/合集原画新XB.jar;md5;acc9342e0488b454637854295249dfb1"},    
 {"key":"csp_xpath_cilisou","name":"🤑磁力搜原画4K(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/磁力搜.json"},
 {"key":"AliPS","name":"🐱盘搜原画4K(搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"5fceaa47e0164cab944160ffedd4d5c1","jar":"https://agit.ai/jm/me/raw/branch/master/ja/合集.jar;md5;fdb736f1a66a56ab77e626fb4faf8d70"}, 
