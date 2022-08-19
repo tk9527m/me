@@ -6,10 +6,10 @@
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 
   "sites":[
-{"key": "csp_Yiso","name":"🐞易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"10b95defd9994d45ae4cad520d073b95","jar":"https://agit.ai/jm/me/raw/branch/master/ja/合集原画.jar"},    
-//{"key":"csp_Yiso","name":"🤡易搜原画4K(搜索)","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"5fceaa47e0164cab944160ffedd4d5c1","jar":"https://agit.ai/jm/me/raw/branch/master/ja/合集原画新XB.jar;md5;acc9342e0488b454637854295249dfb1"},    
+{"key":"csp_AliPS","name":"阿里盘搜(仅搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"5fceaa47e0164cab944160ffedd4d5c1","jar":"https://agit.ai/jm/me/raw/branch/master/ja/合集原画.jar;md5;aa7587220ff66f25b923a8cfa43f5713"},
+{"key":"csp_Yisou","name":"🤡易搜原画4K(搜索)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"5fceaa47e0164cab944160ffedd4d5c1","jar":"https://agit.ai/jm/me/raw/branch/master/ja/999.jar;md5;b4aa0673a4f7fa631769f137ee7e6c26"},    
 {"key":"csp_xpath_cilisou","name":"🤑磁力搜原画4K(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/磁力搜.json"},
-{"key":"AliPS","name":"🐱盘搜原画4K(搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"5fceaa47e0164cab944160ffedd4d5c1","jar":"https://agit.ai/jm/me/raw/branch/master/ja/合集.jar;md5;fdb736f1a66a56ab77e626fb4faf8d70"}, 
+//{"key":"AliPS","name":"🐱盘搜原画4K(搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"5fceaa47e0164cab944160ffedd4d5c1","jar":"https://agit.ai/jm/me/raw/branch/master/ja/合集.jar;md5;fdb736f1a66a56ab77e626fb4faf8d70"}, 
 {"key":"Zhaozy","name":"🦊找资源原画4K(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "5fceaa47e0164cab944160ffedd4d5c1","jar":"https://agit.ai/jm/me/raw/branch/master/ja/合集.jar;md5;fdb736f1a66a56ab77e626fb4faf8d70"}, 
 {"key": "csp_Gitcafe","name":"📜阿里纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"5fceaa47e0164cab944160ffedd4d5c1","jar":"https://agit.ai/jm/me/raw/branch/master/ja/合集.jar;md5;fdb736f1a66a56ab77e626fb4faf8d70"}, 
 {"key":"csp_SP360","name":"😜360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/0712.jar"},
