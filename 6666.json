@@ -7,12 +7,19 @@
 
   "sites":[
 
+
+
+
+{"key":"csp_AliPS","name":"📚喵狸盘搜(仅搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"7bb5b24ca3274ad781a6071082e9eebd","jar":"https://agit.ai/jm/me/raw/branch/master/ja/sun.jar;md5;58df443ef01f0efcbe59b880e2abbbf4"},
+
+{"key":"Zhaozy","name":"🗂️找资源(仅搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"7bb5b24ca3274ad781a6071082e9eebd","jar":"https://agit.ai/jm/me/raw/branch/master/ja/sun.jar;md5;58df443ef01f0efcbe59b880e2abbbf4"},
+{"key":"csp_Gitcafe","name":"📜小纸条（云盘高清）","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"7bb5b24ca3274ad781a6071082e9eebd","jar":"https://agit.ai/jm/me/raw/branch/master/ja/sun.jar;md5;58df443ef01f0efcbe59b880e2abbbf4"},
 {"key":"csp_Yisou","name":"🏟易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"7bb5b24ca3274ad781a6071082e9eebd","jar":"https://agit.ai/jm/me/raw/branch/master/ja/sun.jar;md5;58df443ef01f0efcbe59b880e2abbbf4"},
 //{"key":"csp_Yisou","name":"🤡易搜原画4K(搜索)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"5fceaa47e0164cab944160ffedd4d5c1","jar":"https://agit.ai/jm/me/raw/branch/master/ja/999.jar;md5;b4aa0673a4f7fa631769f137ee7e6c26"},    
 {"key":"csp_xpath_cilisou","name":"🤑磁力搜原画4K(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/磁力搜.json"},
-{"key":"AliPS","name":"🐱盘搜原画4K(搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"5fceaa47e0164cab944160ffedd4d5c1","jar":"https://agit.ai/jm/me/raw/branch/master/ja/合集.jar;md5;fdb736f1a66a56ab77e626fb4faf8d70"}, 
-{"key":"Zhaozy","name":"🦊找资源原画4K(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "5fceaa47e0164cab944160ffedd4d5c1","jar":"https://agit.ai/jm/me/raw/branch/master/ja/合集.jar;md5;fdb736f1a66a56ab77e626fb4faf8d70"}, 
-{"key": "csp_Gitcafe","name":"📜阿里纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"5fceaa47e0164cab944160ffedd4d5c1","jar":"https://agit.ai/jm/me/raw/branch/master/ja/合集.jar;md5;fdb736f1a66a56ab77e626fb4faf8d70"}, 
+//{"key":"AliPS","name":"🐱盘搜原画4K(搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"5fceaa47e0164cab944160ffedd4d5c1","jar":"https://agit.ai/jm/me/raw/branch/master/ja/合集.jar;md5;fdb736f1a66a56ab77e626fb4faf8d70"}, 
+//{"key":"Zhaozy","name":"🦊找资源原画4K(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "5fceaa47e0164cab944160ffedd4d5c1","jar":"https://agit.ai/jm/me/raw/branch/master/ja/合集.jar;md5;fdb736f1a66a56ab77e626fb4faf8d70"}, 
+//{"key": "csp_Gitcafe","name":"📜阿里纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"5fceaa47e0164cab944160ffedd4d5c1","jar":"https://agit.ai/jm/me/raw/branch/master/ja/合集.jar;md5;fdb736f1a66a56ab77e626fb4faf8d70"}, 
 {"key":"csp_SP360","name":"😜360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/0712.jar"},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小小影视","name":"❎小小影视(SP)","api":"csp_Xxys","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/ayt.jar;md5;cac73c3129ff2dc79f73ec4d6d0563a6"},
