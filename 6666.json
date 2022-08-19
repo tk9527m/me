@@ -67,7 +67,7 @@
 
 
 
-{"key":"酷猫","name":"🦁酷猫影视(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/mgmf/mu/raw/master/kumao22.jar"},
+{"key":"酷猫","name":"🦁酷猫影视(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/kumao22.jar"},
 //{"key":"Ekan_spider","name":"😻Ekan","api":"csp_Ekan","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/qj0728.jar"},
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"csp_Kunyu77","name":"🐶七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
