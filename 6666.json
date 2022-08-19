@@ -44,13 +44,13 @@
     },
     {
       "key": "csp_Wmkk",
-      "name": "🐞完美看看",
+      "name": "👺完美看看",
       "type": 3,
       "api": "csp_Wmkk",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
-    },
+      "filterable": 1,
+     "jar":"https://agit.ai/jm/me/raw/branch/master/ja/qj.jar;md5;7eacb357cf27abce92ed497367221e5a"},
     {
       "key":"csp_Smdyy",
       "name":"🎢电影院(SP)",
