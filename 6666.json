@@ -42,7 +42,15 @@
       "filterable":1,
       "ext":"http://v.jiexi.work/qingdoujiekou.php/v1.vod"
     },
-    
+    {
+      "key": "csp_Wmkk",
+      "name": "🐞完美看看",
+      "type": 3,
+      "api": "csp_Wmkk",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key":"csp_Smdyy",
       "name":"🎢电影院(SP)",
