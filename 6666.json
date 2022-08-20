@@ -84,7 +84,7 @@
 {"key": "Smdyy","name": "🐴神马影院","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/qj0731.jar"},
 //{"key":"csp_MGTV","name":"🍋芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/%E5%AE%98%E6%BA%90.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea"},
 //{"key":"csp_IQIYI","name":"🍅奇艺TV(SP)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/%E5%AE%98%E6%BA%90.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea"},
-//{
+{
       "key": "csp_QQ",
       "name": "🐧企鹅视频(SP)",
       "type": 3,
