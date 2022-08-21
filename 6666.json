@@ -66,7 +66,19 @@
      "jar":"https://agit.ai/jm/me/raw/branch/master/ja/xxoo805.jar;md5;4FE77A9197C8641941E664B0718120CD"},
 
 
-
+{
+  "sites": [
+            {
+      "key": "80S磁力",
+      "name": "80S磁力",
+      "type": 3,
+      "api": "csp_XYQBiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://gitea.com/yuegu09/wailian/raw/branch/main/XYQ/80S磁力.json",
+      "jar":"https://gitea.com/yuegu09/wailian/raw/branch/main/jar/XYQBiu.jar"
+    },
 {"key":"csp_CZSPP","name":"👮🏼厂长影视(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"在线之家","name":"🎪在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"酷猫","name":"🦁酷猫影视(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/合集原画新XB.jar;md5;acc9342e0488b454637854295249dfb1"},
@@ -402,7 +414,7 @@
 //{"key":"csp_Tkys","name":"💖Tkys(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_biubiu_厂长资源-蓝光","name":"👷厂长资源-蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/厂长资源-蓝光.json"},
 //{"key":"csp_biubiu_在线之家","name":"🐕在线之家(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/在线之家.json"},
-{"key":"csp_biubiu_80秒","name":"👹80秒(XB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/80S磁力.json","jar":"https://agit.ai/jm/me/raw/branch/master/ja/QXBiubiu (Cli).jar;md5;381f3de719515c74821274eb2d12877c"},
+//{"key":"csp_biubiu_80秒","name":"👹80秒(XB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/80S磁力.json","jar":"https://agit.ai/jm/me/raw/branch/master/ja/QXBiubiu (Cli).jar;md5;381f3de719515c74821274eb2d12877c"},
  {"key":"csp_biubiu_蚂蚁4K","name":"👹蚂蚁4K(XB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/蚂蚁4K.json","jar":"https://agit.ai/jm/me/raw/branch/master/ja/QXBiubiu (Cli).jar;md5;381f3de719515c74821274eb2d12877c"},
 {"key":"csp_biubiu_电影港磁力","name":"👹电影港磁力(XB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/电影港磁力.json","jar":"https://agit.ai/jm/me/raw/branch/master/ja/QXBiubiu (Cli).jar;md5;381f3de719515c74821274eb2d12877c"},
 
