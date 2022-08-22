@@ -66,7 +66,7 @@
      "jar":"https://agit.ai/jm/me/raw/branch/master/ja/xxoo805.jar;md5;4FE77A9197C8641941E664B0718120CD"},
 
 
-{"key":"csp_Anime1","name":"🍃Anime","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1｝
+{"key":"csp_Anime1","name":"🍃Anime","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"好恐怖磁力","name":"好恐怖磁力","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/好恐怖磁力.json","jar":"https://agit.ai/jm/me/raw/branch/master/ja/QXBiubiu1.jar"},     
 {"key":"csp_CZSPP","name":"👮🏼厂长影视(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"在线之家","name":"🎪在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
