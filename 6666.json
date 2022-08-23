@@ -93,7 +93,16 @@
 {"key":"csp_Cokemv","name":"💞Cokemv影院(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Auete","name":"🐥Auete影院(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_meijuchong","name":"🐛美剧虫(SP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/meijuchong.json" },
-
+{
+   "key": "csp_biubiu_迷你库",
+   "name": "🦃迷你库",
+   "type": 3,
+   "api": "csp_XBiubiu",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "https://agit.ai/jm/me/raw/branch/master/XB/miniku.json"
+  },
 {"key":"csp_DiDuan" ,"name":"🐄低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/XC0817w.jar;md5;5D578B37A92E7C6AD0987EBC57E83E60"},
 {"key": "Smdyy","name": "🐴神马影院","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/qj0731.jar"},
 {"key":"csp_MGTV","name":"🍋芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/0820.jar;md5;381A02B64A5BD9853369369C335B8018"},
