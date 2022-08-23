@@ -32,6 +32,7 @@
 //{"key":"csp_dd5555","name": "5️⃣️555影视（SP）","api":"csp_Dy555","type":3,"filterable":1,"quickSearch": 1,"searchable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/XC0818.jar;md5;E055B9187B24386D52D93CF23EE8BA76"},
 //{"key": "csp_TKY","name": "✈️天空(SP)","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/sc.jar;md5;b63e45664754f6ef2536428b857901c6"},
 {"key": "csp_Yj1211","name": "📽️游戏直播(SP)","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/修复直播.jar;md5;007c4f7c81c2d53c12a157c63cc6ab88"},    
+{"key":"北雁资源","name":"🐤北燕资源(SP)","type":1,"api":"https://zy.beiyan.cc:4433/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","categories": ["电影", "国产剧", "港台剧", "日韩剧", "欧美剧", "综艺", "动漫"]},
 {
             "key": "T4",
             "name": "🆑T4",
