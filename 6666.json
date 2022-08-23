@@ -213,7 +213,7 @@
       ]
     },
 
-{"key":"csp_QXBiubiu_影视工厂","name":"影视工厂(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/影视工厂.json","jar":"https://agit.ai/jm/me/raw/branch/master/ja/QXBiubiu1.jar;md5;050060e721e8dc6fce94dbe620347397"},
+{"key":"csp_QXBiubiu_影视工厂","name":"影视工厂(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/影视工厂.json","jar":"https://agit.ai/jm/me/raw/branch/master/ja/原画添加XYQB.jar;md5;93916acff9fc42ea3a679a8209bb640b"},
 {"key":"csp_xpath_555","name":"5️⃣555电影(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/555电影1.json"},	
 //{"key":"so","name":"⚽搜gou(解析)","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/from/sohu/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["国产剧","港台剧","日韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","综艺","动漫","少儿","其他片","其他剧"]},
 {"key":"csp_Tkys","name":"💖天空影视(SP)","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/xxoo805.jar;md5;4FE77A9197C8641941E664B0718120CD"},
