@@ -33,6 +33,15 @@
 //{"key": "csp_TKY","name": "✈️天空(SP)","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/sc.jar;md5;b63e45664754f6ef2536428b857901c6"},
 {"key": "csp_Yj1211","name": "📽️游戏直播(SP)","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/修复直播.jar;md5;007c4f7c81c2d53c12a157c63cc6ab88"},    
 {
+            "key": "T4",
+            "name": "(T4)",
+            "type": 4,
+            "api": "https://t4.catvod.eu.org/catvod/gaze",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+{
       "key":"csp_biubiu_哔滴",
       "name":"💎哔滴(XB)",
       "type":3,
