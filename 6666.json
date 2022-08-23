@@ -34,7 +34,7 @@
 {"key": "csp_Yj1211","name": "📽️游戏直播(SP)","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/修复直播.jar;md5;007c4f7c81c2d53c12a157c63cc6ab88"},    
 {
             "key": "T4",
-            "name": "(T4)",
+            "name": "🆑T4",
             "type": 4,
             "api": "https://t4.catvod.eu.org/catvod/gaze",
             "searchable": 1,
