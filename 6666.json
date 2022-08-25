@@ -416,7 +416,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/mgmf/mu/raw/master/bilibili.json","jar":"https://agit.ai/jm/me/raw/branch/master/ja/BB.jar;md5;c5c337bb2793598e9aa5953898fbb087"},
+      "ext": "https://agit.ai/jm/me/raw/branch/master/XB/bilibili.json","jar":"https://agit.ai/jm/me/raw/branch/master/ja/BB.jar;md5;c5c337bb2793598e9aa5953898fbb087"},
     
 {"key": "Bili_演唱会","name": "🅱️演唱会（B站）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/jm/me/raw/branch/master/XB/ych.json"},
 //{"key": "csp_Bliyc","name":"🅱️演唱会","type": 3,"api": "csp_Bliyc","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/top94.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea"},
