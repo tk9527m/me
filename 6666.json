@@ -418,11 +418,7 @@
       "filterable": 1,
       "ext": "https://agit.ai/jm/me/raw/branch/master/XB/bilibili.json","jar":"https://agit.ai/jm/me/raw/branch/master/ja/BB.jar;md5;c5c337bb2793598e9aa5953898fbb087"},
     
-{"key": "Bili_演唱会","name": "🅱️演唱会（B站）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/jm/me/raw/branch/master/XB/ych.json"},
-//{"key": "csp_Bliyc","name":"🅱️演唱会","type": 3,"api": "csp_Bliyc","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/top94.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea"},
-{"key": "csp_Blixs","name":"🅱️相声小品","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/top94.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea"},
-{"key": "csp_Blidw","name":"🅱️动物世界","type": 3,"api": "csp_Blidw","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/top94.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea"},
-{"key": "csp_Blixq","name":"🅱️戏曲","type": 3,"api": "csp_Blixq","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/top94.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea"},
+
 {"key":"csp_xpath_huya","name":"🐯虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/huya2.json"},
 {"key":"csp_biubiu_斗鱼","name":"🐬斗鱼","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/jiang2022j/jmu/raw/branch/main/MeowXB/%E6%96%97%E9%B1%BC.json"},
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/kuqimv.json"},
