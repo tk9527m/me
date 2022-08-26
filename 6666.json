@@ -229,6 +229,8 @@
 {"key":"csp_appysv2_独优影视","name":"☘️独优影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.71:218/api.php/Chengcheng/vod/"},
 {"key":"csp_xp_jpys","name":"🎦极品影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/jpys.json"},
 {"key":"优众影视","name":"🍹优众影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
+{"key":"csp_xp_ddg","name":"🐢达达龟","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/dadagui.json"},
+
 {
       "key": "爱酷",
       "name": "📺爱酷〔V2〕",
@@ -270,7 +272,7 @@
 
     },
 
-{"key":"csp_biubiu_猫眼电影","name":"🍭猫眼电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/猫眼电影.json"},
+
 {"key":"csp_biubiu_速搜影院","name":"🥑速搜影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/速搜影院.json"},
 {"key":"csp_biubiu_奇萃影视","name":"🍬奇萃影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/奇萃影视.json"},
 {"key":"csp_biubiu_凌云影视","name":"🍡凌云影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/凌云影视.json"},
