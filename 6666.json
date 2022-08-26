@@ -28,7 +28,7 @@
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小小影视","name":"❎小小影视(SP)","api":"csp_Xxys","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/ayt.jar;md5;cac73c3129ff2dc79f73ec4d6d0563a6"},
 {"key":"csp_3EDY","name":"🔥3E飘花(SP)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/mwqgxx/gmx/raw/branch/main/sub/ext/sp081.txt;md5;4bb140374f74fc87b306f1e5a6d8bbea"},
-{"key":"csp_dd5555","name": "5️⃣️555影视（SP）","api":"csp_Dy555","type":3,"filterable":1,"quickSearch": 1,"searchable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/长老+juhuang+dy555.jar;md5;4f10847bf69ba3504810c9e9e3bd47f1"},
+{"key":"csp_dy5555","name": "5️⃣️555影视（SP）","api":"csp_Dy555","type":3,"filterable":1,"quickSearch": 1,"searchable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/长老+juhuang+dy555.jar;md5;4f10847bf69ba3504810c9e9e3bd47f1"},
 //{"key":"csp_dd5555","name": "5️⃣️555影视（SP）","api":"csp_Dy555","type":3,"filterable":1,"quickSearch": 1,"searchable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/XC0818.jar;md5;E055B9187B24386D52D93CF23EE8BA76"},
 //{"key": "csp_TKY","name": "✈️天空(SP)","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/sc.jar;md5;b63e45664754f6ef2536428b857901c6"},
 {"key": "csp_Yj1211","name": "📽️游戏直播(SP)","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/修复直播.jar;md5;007c4f7c81c2d53c12a157c63cc6ab88"},    
