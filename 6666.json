@@ -46,7 +46,16 @@
 			"filterable": 1,
 			"quickSearch": 1,
 			"searchable": 1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/jar0826.jar;md5;b10d1d0527e69bcdc323a4c0bf9e5d65"},
-		
+{
+			"key": "Lezhu_spider",
+			"name": "🐷乐猪影视（SP）",
+			"api": "csp_Lezhu",
+			"type": 3,
+			"filterable": 1,
+			"quickSearch": 1,
+			"searchable": 1,
+			"ext": "","jar":"https://agit.ai/jm/me/raw/branch/master/ja/jar0826.jar;md5;b10d1d0527e69bcdc323a4c0bf9e5d65"},
+			
 
 
 
