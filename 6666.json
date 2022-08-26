@@ -286,7 +286,7 @@
 {"key":"csp_biubiu_um","name":"🐉um(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/um.json"},
 {
       "key": "csp_biubiu_饭团",
-      "name": "饭团",
+      "name": "🔔饭团",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
