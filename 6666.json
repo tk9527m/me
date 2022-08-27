@@ -15,7 +15,7 @@
 
 
 {"key":"csp_AliPS","name":"🎃喵狸盘搜(仅搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"3781469b13074e4cac1e0e7113e4fa20"},
-
+{"key": "T4","name": "☄️服务器爬虫","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"Zhaozy","name":"🤑找资源(仅搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"3781469b13074e4cac1e0e7113e4fa20"},
 {"key":"csp_GitCafe","name":"🎲小纸条（云盘高清）","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"3781469b13074e4cac1e0e7113e4fa20","jar":"https://agit.ai/jm/me/raw/branch/master/ja/原画添加XYQB.jar;md5;93916acff9fc42ea3a679a8209bb640b"},
 {"key":"csp_Yiso","name":"🤡易搜盘","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"3781469b13074e4cac1e0e7113e4fa20"},
