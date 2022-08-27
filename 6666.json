@@ -3,7 +3,7 @@
    
    
    
-   "spider":"https://agit.ai/jm/me/raw/branch/master/ja/jar0826.jar;md5;b10d1d0527e69bcdc323a4c0bf9e5d65",
+   "spider":"https://agit.ai/jm/me/raw/branch/master/ja/sun.jar;md5;58df443ef01f0efcbe59b880e2abbbf4",
    //"spider":"https://agit.ai/jm/me/raw/branch/master/ja/top94.jar;md5;1642425a86937adb5bf6bbcb548487af",
     "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 
