@@ -4,7 +4,19 @@
         {
             "type_name": "纪录片",
             "type_id": "纪录片"
-        },    
+        }, 
+        {
+      "type_name": "MT管理器",
+      "type_id": "MT管理器"
+    },
+    {
+      "type_name": "网盘挂载",
+      "type_id": "网盘挂载"
+    },
+    {
+      "type_name": "java",
+      "type_id": "java教程"
+    },   
      {
             "type_name": "美食",
             "type_id": "美食"
