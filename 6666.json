@@ -2,8 +2,8 @@
   
    
    
-   
-   "spider":"https://agit.ai/jm/me/raw/branch/master/ja/sun.jar;md5;58df443ef01f0efcbe59b880e2abbbf4",
+   "spider":"https://agit.ai/jm/me/raw/branch/master/ja/0827.jar;md5;556f61ac1c13a3a3246dbe28afc592bd",
+   //"spider":"https://agit.ai/jm/me/raw/branch/master/ja/sun.jar;md5;58df443ef01f0efcbe59b880e2abbbf4",
    //"spider":"https://agit.ai/jm/me/raw/branch/master/ja/top94.jar;md5;1642425a86937adb5bf6bbcb548487af",
     "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 
