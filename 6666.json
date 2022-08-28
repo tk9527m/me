@@ -40,6 +40,17 @@
 {"key": "csp_XYQBiu_凌云视频国内","name": "🎶凌云国内(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/jm/me/raw/branch/master/XB/凌云.json","jar":"https://agit.ai/jm/me/raw/branch/master/ja/0822w.jar;md5;80e271c851d37bd22f8418bb4f8f79b4"},
 //{"key": "csp_XYQBiu_凌云视频韩国","name": "🎵凌云韩国(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/jm/me/raw/branch/master/XB/lysphg-XYQ.json","jar":"https://agit.ai/jm/me/raw/branch/master/ja/0822w.jar;md5;80e271c851d37bd22f8418bb4f8f79b4"},
 {
+  "key": "csp_Alist2",
+  "name": "Alist2(SP)",
+  "type": 3,
+  "api": "csp_Alist",
+  "searchable": 0,
+  "quickSearch": 0,
+  "filterable": 0,
+  "ext": "https://alist.youte.ml"
+},
+
+{
       "key": "csp_xpath完美看看",
       "name": "💯完美看看(XPF)️",
       "type": 3,
