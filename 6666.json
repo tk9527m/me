@@ -38,7 +38,7 @@
 {"key":"3EDY","name":"🏹3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"https://agit.ai/jm/me/raw/branch/master/ja/qj0730.jar;md5;bbd17dc7b6650c2f3f10d5082ee6e539"},
 {"key":"csp_CZSPP","name":"👮🏼厂长影视(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"在线之家","name":"🎪在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
-//{"key": "Ikan", "name": "🎄爱看","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/原画添加XYQB.jar;md5;93916acff9fc42ea3a679a8209bb640b"},
+{"key": "Ikan", "name": "🎄爱看","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/00test.jar;md5;8bc28c68b7dfb8019b2fe9f02a9075ee"},
 {"key":"293视频","name":"🐓293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"https://agit.ai/jm/me/raw/branch/master/ja/origin.jar;md5;5024e703c96f606df034bfb9ffd1f423"},
 {"key":"csp_Jianying","name":"✨简影","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMDk1MCwiQ3JlYXRlZEF0IjoiMjAyMi0wOC0xNlQyMzoyNjoyMi4xNDQrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA4LTE2VDIzOjI2OjIyLjE0NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjIzMDg4MTcwMTBAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiY2ZhYzE3Y2QtMmY5Mi00MTlkLTgwZTctYzRlNGI3YTk3MjNlIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjEyNjgzODcsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.jkloD7HymtrLwvWaiAHOsxxqSqN2j7RgitKDhJS5e5Q","jar":"https://agit.ai/jm/me/raw/branch/master/ja/XC0817w.jar;md5;5D578B37A92E7C6AD0987EBC57E83E60"},
 {"key": "csp_Wmkk","name": "🆘完美看看","api": "csp_Wmkk","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},   
@@ -68,7 +68,7 @@
     },
     {"key":"csp_xpath_bdcl","name":"🎷哔滴磁力(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/bidid.json"},
 {"key":"mtv_pc_两个磁力","name":"🔥两个磁力","type":3,"api":"csp_Bttoo"         ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/%E8%B5%84%E6%BA%90%E5%8C%852.jar;md5;8A21559775BA9AA84480C3E68956089C"},	
-
+{"key":"csp_QXBiubiu_80S磁力","name":"♨️80S磁力(需要外置MX播放器QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/80S磁力.json","jar":"https://agit.ai/jm/me/raw/branch/master/ja/00test.jar;md5;8bc28c68b7dfb8019b2fe9f02a9075ee"},
 {
       "key":"csp_appysv2_amhys",
       "name":"🌭爱麻花影视(SP)",
@@ -129,6 +129,14 @@
 //{"key":"油库","name":"⛽️优酷TV","type":0,"api":"https://www.bajiezy.xyz/api.php/provide/vod/from/youku/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"],"jar":"https://agit.ai/jm/me/raw/branch/master/ja/0820.jar;md5;381A02B64A5BD9853369369C335B8018"},
 //{"key":"pPTV","name":"🐳PPTV","type":0,"api":"https://www.bajiezy.xyz/api.php/provide/vod/from/pptv/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"],"jar":"https://agit.ai/jm/me/raw/branch/master/ja/0820.jar;md5;381A02B64A5BD9853369369C335B8018"},
 //{"key":"souhu","name":"🦊搜狐TV","type":0,"api":"https://www.bajiezy.xyz/api.php/provide/vod/from/sohu/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"],"jar":"https://agit.ai/jm/me/raw/branch/master/ja/top22.jar;md5;0c7a757d856746608166af270c18ce30"},
+
+{"key": "csp_XYQBiu_影视工厂","name": "🍿影视工厂(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/jm/me/raw/branch/master/XB/影视工厂.json","jar":"https://agit.ai/jm/me/raw/branch/master/ja/0822w.jar;md5;80e271c851d37bd22f8418bb4f8f79b4"},
+{"key":"csp_QXBiubiu_剧白白","name":"🥚剧白白(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/剧白白.json","jar":"https://agit.ai/jm/me/raw/branch/master/ja/0822w.jar;md5;80e271c851d37bd22f8418bb4f8f79b4"},
+{"key":"DJ-XB-花猫TV","name": "🐱花猫TV（XB）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/jm/me/raw/branch/master/XB/花猫TV.json"},
+
+
+
+
 {
       "key": "xinlangapi",
       "name": "🏄‍♂️新浪(sp)",
@@ -431,7 +439,7 @@
 //{"key":"csp_Tkys","name":"💖Tkys(SP)","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_biubiu_厂长资源-蓝光","name":"👷厂长资源-蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/厂长资源-蓝光.json"},
 //{"key":"csp_biubiu_在线之家","name":"🐕在线之家(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/在线之家.json"},
-{"key":"csp_biubiu_80秒","name":"👹80秒(XB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/80S磁力.json","jar":"https://agit.ai/jm/me/raw/branch/master/ja/QXBiubiu (Cli).jar;md5;381f3de719515c74821274eb2d12877c"},
+
  {"key":"csp_biubiu_蚂蚁4K","name":"👹蚂蚁4K(XB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/蚂蚁4K.json","jar":"https://agit.ai/jm/me/raw/branch/master/ja/QXBiubiu (Cli).jar;md5;381f3de719515c74821274eb2d12877c"},
 {"key":"csp_biubiu_电影港磁力","name":"👹电影港磁力(XB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/电影港磁力.json","jar":"https://agit.ai/jm/me/raw/branch/master/ja/QXBiubiu (Cli).jar;md5;381f3de719515c74821274eb2d12877c"},
 {
