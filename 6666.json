@@ -68,7 +68,7 @@
     },
     {"key":"csp_xpath_bdcl","name":"🎷哔滴磁力(XPF)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/bidid.json"},
 {"key":"mtv_pc_两个磁力","name":"🔥两个磁力","type":3,"api":"csp_Bttoo"         ,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/%E8%B5%84%E6%BA%90%E5%8C%852.jar;md5;8A21559775BA9AA84480C3E68956089C"},	
-{"key":"csp_QXBiubiu_80S磁力","name":"🆗80S磁力","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/80S磁力.json","jar":"https://agit.ai/jm/me/raw/branch/master/ja/0822w.jar;md5;80e271c851d37bd22f8418bb4f8f79b4"},
+{"key":"csp_XYQBiu_80S磁力","name":"🆗80S磁力(QXB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/80S磁力.json","jar":"https://agit.ai/jm/me/raw/branch/master/ja/0822w.jar;md5;80e271c851d37bd22f8418bb4f8f79b4"},
 {
       "key":"csp_appysv2_amhys",
       "name":"🌭爱麻花影视(SP)",
