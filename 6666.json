@@ -24,6 +24,7 @@
 //{"key":"AliPS","name":"🐱盘搜原画4K(搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"5fceaa47e0164cab944160ffedd4d5c1","jar":"https://agit.ai/jm/me/raw/branch/master/ja/合集.jar;md5;fdb736f1a66a56ab77e626fb4faf8d70"}, 
 //{"key":"Zhaozy","name":"🦊找资源原画4K(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "5fceaa47e0164cab944160ffedd4d5c1","jar":"https://agit.ai/jm/me/raw/branch/master/ja/合集.jar;md5;fdb736f1a66a56ab77e626fb4faf8d70"}, 
 //{"key": "csp_Gitcafe","name":"📜阿里纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"5fceaa47e0164cab944160ffedd4d5c1","jar":"https://agit.ai/jm/me/raw/branch/master/ja/合集.jar;md5;fdb736f1a66a56ab77e626fb4faf8d70"}, 
+{"key":"csp_77","name":"🐶酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/77.jar;md5;1B0FAE7C99B09C6F66D6C39B114580A9"},
 {"key":"csp_SP360","name":"😜360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/0712.jar"},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小小影视","name":"❎小小影视(SP)","api":"csp_Xxys","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/ayt.jar;md5;cac73c3129ff2dc79f73ec4d6d0563a6"},
@@ -97,7 +98,7 @@
 //{"key":"酷猫","name":"🦁酷猫影视(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/合集原画新XB.jar;md5;acc9342e0488b454637854295249dfb1"},
 
 
-{"key":"csp_Kunyu77","name":"🐶七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+
 
 
 {"key":"csp_Mjxq","name":"🌏美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/top9555.jar;md5;b63e45664754f6ef2536428b857901c6"},
