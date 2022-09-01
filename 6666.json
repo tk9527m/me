@@ -45,6 +45,15 @@
 {"key": "csp_Wmkk","name": "🆘完美看看","api": "csp_Wmkk","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},   
 {"key": "Lezhu_spider","name": "🐷乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""}, 
 {"key":"追剧喵","name":"🐨追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
+{
+    "key": "csp_Cokemv",
+    "name": "🍺酷克影院(爬虫)",
+    "type": 3,
+    "api": "csp_Cokemv",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 1
+    },
 {"key":"多多资源","name":"🦕多多","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,
 //"playUrl":"https://player.movie09.com/dplayer/?url=",
 "categories":["国产剧","港台剧","日韩剧","欧美剧","泰国剧","综艺","动漫","动画片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","灾难片","犯罪片","悬疑片","惊悚片","奇幻片","冒险片","武侠片","记录片","伦理","国产动漫","日韩动漫","欧美动漫","海外剧","国内综艺","海外综艺"]},  
@@ -104,7 +113,7 @@
 
 
 {"key":"csp_Mjxq","name":"🌏美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/top9555.jar;md5;b63e45664754f6ef2536428b857901c6"},
-{"key":"csp_Cokemv","name":"💞Cokemv影院(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
+
 
 {"key":"csp_meijuchong","name":"🐛美剧虫(SP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/meijuchong.json" },
 {
@@ -132,7 +141,7 @@
 //{"key":"油库","name":"⛽️优酷TV","type":0,"api":"https://www.bajiezy.xyz/api.php/provide/vod/from/youku/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"],"jar":"https://agit.ai/jm/me/raw/branch/master/ja/0820.jar;md5;381A02B64A5BD9853369369C335B8018"},
 //{"key":"pPTV","name":"🐳PPTV","type":0,"api":"https://www.bajiezy.xyz/api.php/provide/vod/from/pptv/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"],"jar":"https://agit.ai/jm/me/raw/branch/master/ja/0820.jar;md5;381A02B64A5BD9853369369C335B8018"},
 //{"key":"souhu","name":"🦊搜狐TV","type":0,"api":"https://www.bajiezy.xyz/api.php/provide/vod/from/sohu/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片","其他剧"],"jar":"https://agit.ai/jm/me/raw/branch/master/ja/top22.jar;md5;0c7a757d856746608166af270c18ce30"},
-
+{"key":"csp_appysv2_dyys","name":"🎗️独优影视(SP)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.71:218/api.php/Chengcheng/vod/"},
 {"key": "csp_XYQBiu_影视工厂","name": "🍿影视工厂(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/jm/me/raw/branch/master/XB/影视工厂.json","jar":"https://agit.ai/jm/me/raw/branch/master/ja/0822w.jar;md5;80e271c851d37bd22f8418bb4f8f79b4"},
 {"key":"csp_QXBiubiu_剧白白","name":"🥚剧白白(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/剧白白.json","jar":"https://agit.ai/jm/me/raw/branch/master/ja/0822w.jar;md5;80e271c851d37bd22f8418bb4f8f79b4"},
 {"key":"DJ-XB-花猫TV","name": "🐱花猫TV（XB）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/jm/me/raw/branch/master/XB/花猫TV.json"},
