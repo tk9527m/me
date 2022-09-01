@@ -113,7 +113,7 @@
 
 
 {"key":"csp_Mjxq","name":"🌏美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/top9555.jar;md5;b63e45664754f6ef2536428b857901c6"},
-{"key":"csp_Cokemv","name":"💞Cokemv影院(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
+
 
 {"key":"csp_meijuchong","name":"🐛美剧虫(SP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/meijuchong.json" },
 {
