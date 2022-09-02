@@ -146,7 +146,7 @@
 {"key":"csp_QXBiubiu_剧白白","name":"🥚剧白白(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/剧白白.json","jar":"https://agit.ai/jm/me/raw/branch/master/ja/0822w.jar;md5;80e271c851d37bd22f8418bb4f8f79b4"},
 {"key":"DJ-XB-花猫TV","name": "🐱花猫TV（XB）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://agit.ai/jm/me/raw/branch/master/XB/花猫TV.json"},
 {"key": "假多多资源","name": "🔪假多多资源(切)","type": 1,"api": "https://www.ddzyz1.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
-
+{"key":"csp_biubiu_七小影院(XBF)","name":"🌛七小影院(XBF)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/七小影院(XBF).json","jar":"https://agit.ai/jm/me/raw/branch/master/ja/xbf_0902.jar;md5;55b298cd1567430c7f2072322823b151"},
 
 
 {
