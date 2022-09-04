@@ -48,7 +48,7 @@
 {"key":"mtv_xp_红领巾源","name":"📢红领巾源(XB)","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/红领巾影院.json"},
 {"key":"mtv_xp_VIP电影","name":"🍩VIP电影(XB)","type":3,"api":"csp_XBiubiu"       ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/VIP电影.json"},
 {"key":"csp_Juhi","name":"🍈剧嗨(SP)","type":3,"api":"csp_Juhi","searchable":1,"quickSearch":0,"filterable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/20220904.jar;md5;0e5a803d888662cd3f9187cac70ab14b"},
-{"key":"csp_XBiubiubiubiu_city","name":"🏙️城市电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/sngdha/TvConfig/raw/branch/main/MaoXB/city.json"},
+{"key":"csp_XBiubiubiubiu_city","name":"🏙️城市电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/city.json"},
 {
     "key": "csp_Cokemv",
     "name": "🍺酷克影院(爬虫)",
