@@ -61,7 +61,7 @@
 {"key":"csp_Juhi","name":"🍈剧嗨(SP)","type":3,"api":"csp_Juhi","searchable":1,"quickSearch":0,"filterable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/20220904.jar;md5;0e5a803d888662cd3f9187cac70ab14b"},
 {"key":"csp_XBiubiubiubiu_city","name":"🏙️城市电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/city.json"},
 {"key":"csp_xpath_电影牛","name":"🐮电影牛(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/电影牛.json"},
-
+{"key":"csp_xp_mozhatu","name":"🐰莫扎兔","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/mozhatu.json"},
 
 
 
