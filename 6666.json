@@ -65,7 +65,16 @@
 
 
 
-
+{
+		"key": "csp_xpath_小猫咪",
+		"name": "😺小猫咪(XYQ)",
+		"type": 3,
+		"api": "csp_XYQBiu",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://agit.ai/jm/me/raw/branch/master/XB/小猫咪.json"
+	},
 {
             "key": "Smdyy",
             "name": "🐎神马影院",
