@@ -65,7 +65,7 @@
 {"key":"csp_AppYsV2","name":"🍹不明","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.wnvod.net/lvdou_api.php/v1.vod"}, 
 {"key":"csp_Lgyy","name":" 🚩蓝光影院(SP)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"https://agit.ai/jm/me/raw/branch/master/ja/666.jar;md5;454f80c2565630cbd053ed18377d8601"},
 {"key":"csp_XYQBiu_剧荒","name":"🎏剧荒(YXQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/剧荒.json","jar":"https://agit.ai/jm/me/raw/branch/master/ja/YXB.jar;md5;c22e877441db6f0b3247e24be2dd4a44"},
-{"key":"csp_XYQBiu_小强迷","name":"🦗小强迷(YXQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/小强迷1.json","jar":"https://agit.ai/jm/me/raw/branch/master/ja/YXB.jar;md5;c22e877441db6f0b3247e24be2dd4a44"},
+{"key":"csp_QXBiubiu_小强迷","name":"🦗小强迷(QXB)","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/小强迷1.json","jar":"https://agit.ai/jm/me/raw/branch/master/ja/00test.jar;md5;8bc28c68b7dfb8019b2fe9f02a9075ee"},
 {
 		"key": "csp_xpath_小猫咪",
 		"name": "😺小猫咪(XYQ)",
