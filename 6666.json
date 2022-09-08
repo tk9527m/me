@@ -28,7 +28,7 @@
 {"key":"csp_SP360","name":"😜360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/0712.jar"},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"小小影视","name":"❎小小影视(SP)","api":"csp_Xxys","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/ayt.jar;md5;cac73c3129ff2dc79f73ec4d6d0563a6"},
-{"key":"csp_3EDY","name":"🔥3E飘花(SP)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/mwqgxx/gmx/raw/branch/main/sub/ext/sp081.txt;md5;4bb140374f74fc87b306f1e5a6d8bbea"},
+{"key":"csp_3EDY","name":"🕊3E飘花(SP)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/mwqgxx/gmx/raw/branch/main/sub/ext/sp081.txt;md5;4bb140374f74fc87b306f1e5a6d8bbea"},
 {"key":"KanSJ_spider","name":"🐸看视界（SP）","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"","jar":"https://agit.ai/jm/me/raw/branch/master/ja/0828.jar;md5;1C1482FF646CC40E1F924EBE320822BC"},
 {"key":"csp_dy5555","name": "5️⃣️555影视（SP）","api":"csp_Dy555","type":3,"filterable":1,"quickSearch": 1,"searchable":1,"jar":"https://agit.ai/jm/me/raw/branch/master/ja/长老+juhuang+dy555.jar;md5;4f10847bf69ba3504810c9e9e3bd47f1"},
 {"key": "剧荒TV（SP）","name": "🐈剧荒TV（SP）","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"","jar":"https://agit.ai/jm/me/raw/branch/master/ja/juhuang.jar;md5;076e2157530714a37606e1599c01a19a"},
