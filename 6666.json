@@ -51,8 +51,8 @@
 {"key":"mtv_zh_刺猬影视","name":"🌨刺猬影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.cccvvv.top/api.php/iptv/vod/"},
 {"key": "csp_biubiu_600影视","name":"🎬600影视XB","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/600影视.json"},
 { "key":"vip1280", "name":"🚼超清vip1280(XB)","type":3, "api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/vip1280.json"},
-{"key": "Lib","name": "🛶Libvio","type": 3,"api": "csp_Lib","searchable": 0,"quickSearch": 1,"filterable": 1},
-
+//{"key": "Lib","name": "🛶Libvio","type": 3,"api": "csp_Lib","searchable": 0,"quickSearch": 1,"filterable": 1},
+{"key":"csp_xpath_libv","name": "🛶Libvio(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/jm/me/raw/branch/master/XB/libvp.json"},
 
 
 
