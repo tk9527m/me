@@ -50,7 +50,7 @@
         },
         
         {
-            "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
+            "url": "https://agit.ai/tk9527/ygbh2/raw/branch/master/PRO.json",
             "name": "🚀小苹果线路"
         },
         {
