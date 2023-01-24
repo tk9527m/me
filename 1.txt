@@ -51,7 +51,7 @@
         
         {
             "url": "https://agit.ai/tk9527/ygbh2/raw/branch/master/PRO.json",
-            "name": "🚀小苹果线路"
+            "name": "🚀跃跃欲试线路"
         },
         {
             "url": "https://raw.liucn.cc/box/m.json",
