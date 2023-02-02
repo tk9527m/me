@@ -8,11 +8,11 @@
         },
         {
             "url": "http://dxawi.github.io/0/0.json",
-            "name": "🚀dxawi0线路"
+            "name": "💯dxawi0线路"
         },
         {
             "url": "https://hutool.ml/tang",
-            "name": "🚀唐三线路"
+            "name": "💯唐三线路"
         },  
         {
             "url": "http://home.jundie.top:81/top98.json",
@@ -51,11 +51,19 @@
         
         {
             "url": "https://agit.ai/tk9527/ygbh2/raw/branch/master/PRO.json",
-            "name": "🚀跃跃欲试线路"
+            "name": "💯跃跃欲试线路"
         },
         {
             "url": "https://raw.liucn.cc/box/m.json",
             "name": "🚀老刘备线路"
+        },
+        {
+            "url": "https://raw.fastgit.org/2hacc/TVBox/main/tvbox",
+            "name": "🚀2hacc"
+        },
+        {
+            "url": "https://raw.fastgit.org/2hacc/TVBox/main/H/h",
+            "name": "🚀2hacc💋"
         },
         {
             "url": "https://app.easybox.vip/dy",
