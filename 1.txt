@@ -7,8 +7,12 @@
             "name": "🔔点击选择下方线路"
         },
         {
+            "url": "https://agit.ai/guot54/ygbh/raw/branch/master/PRO.json",
+            "name": "🈲月光宝盒🈲"
+        },
+        {
             "url": "http://dxawi.github.io/0/0.json",
-            "name": "⭕️dxawi0线路"
+            "name": "✅dxawi0线路"
         },
         {
             "url": "https://hutool.ml/tang",
