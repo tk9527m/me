@@ -3,8 +3,8 @@
 {
     "urls": [
         {
-            "url": "http://aduo.eu.org/duo/v.json",
-            "name": "⬇️⬇️点击选择下方线路"
+            "url": "https://dxawi.github.io/0/0.json",
+            "name": "首选00接口⬇️⬇️下面次选"
         },
         {
             "url": "https://raw.fastgit.org/FongMi/CatVodSpider/main/json/config.json",
