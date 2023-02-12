@@ -24,6 +24,10 @@
             "name": "🧃俊佬线路"
         },
         {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/xianyuyimu/TVBOX-/main/TVBox/一木自用.json",
+            "name": "一木自用接口"
+        },
+        {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/cfg.json",
             "name": "🈯️影魔js 接口"
         },
