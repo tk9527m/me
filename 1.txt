@@ -23,6 +23,10 @@
             "url": "http://home.jundie.top:81/top98.json",
             "name": "🧃俊佬线路"
         },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/cfg.json",
+            "name": "🈯️影魔js 接口"
+        },
        {
             "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
             "name": "🪀YuanHsing仓库"
