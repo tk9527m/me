@@ -12,24 +12,28 @@
         },
         {
             "url": "https://agit.ai/guot54/ygbh/raw/branch/master/PRO.json",
-            "name": "🈲月光宝盒🈲"
+            "name": "🚛月光宝盒🈲"
         },
         
         {
             "url": "https://hutool.ml/tang",
-            "name": "⭕️唐三线路"
+            "name": "🥬唐三线路"
         },  
         {
             "url": "http://home.jundie.top:81/top98.json",
-            "name": "🚀俊佬线路"
+            "name": "🧃俊佬线路"
         },
        {
             "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
-            "name": "💯YuanHsing仓库"
+            "name": "🪀YuanHsing仓库"
         },
         {
             "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
-            "name": "💯liu673cn仓库"
+            "name": "🔫liu673cn仓库"
+        },
+        {
+            "url": "https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json",
+            "name": "@anyo88 甜蜜"
         },
         {
             "url": "https://yydsys.top/duo/v.json",
