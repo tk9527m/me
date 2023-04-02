@@ -11,7 +11,7 @@
             "name": "🐝蜜蜂线路"
         },
         {
-            "url": "https://gitea.com/HeChengChaXiu/xxzb/raw/branch/main/ysj.json",
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json",
             "name": "🌺荷城茶秀"
         },
         {
