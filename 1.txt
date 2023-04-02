@@ -11,6 +11,10 @@
             "name": "🐝蜜蜂线路"
         },
         {
+            "url": "https://gitea.com/HeChengChaXiu/xxzb/raw/branch/main/ysj.json",
+            "name": "🌺荷城茶秀"
+        },
+        {
             "url": "https://agit.ai/guot54/ygbh/raw/branch/master/pro",
             "name": "🚛月光宝盒🈲"
         },
